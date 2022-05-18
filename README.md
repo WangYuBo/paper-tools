@@ -1,12 +1,12 @@
 # paper-tools
 
 1. [研究生完全求生手冊](https://book.douban.com/subject/27108502/) 
-> 如果读是一场冒险游戏，那你需要这份新世界的地图，它告诉你哪里有宝藏哪里有陷阱，如何取得最终胜利，以及搞科研这场游戏的意义和本质。同时也告诉你在这场游戏中能获得的终身受用能力：探索未知、明辨是非、推陈出新。 其中获取创新性论题的方法部分可以参考下王树义老师文章，更全面。
+> 如果读研是一场冒险游戏，那你需要这份新世界的地图，它告诉你哪里有宝藏哪里有陷阱，如何取得最终胜利，以及搞科研这场游戏的意义和本质。同时也告诉你在这场游戏中能获得的终身受用能力：探索未知、明辨是非、推陈出新。 其中获取创新性论题的方法部分可以参考下王树义老师文章，更全面。
 2. [Markdown 教程 | 菜鸟教程](https://www.douban.com/url/10474730/) 还不会用MD？用上你就会爱上她，忘了奶奶们用的Word吧。
 3. [Zotero | Home](https://www.douban.com/url/393299/)信息管理和创造神器，Mendly，你被比下去了哟。
 4. [A Markdown Editor for the 21st Century - Zettlr](https://www.douban.com/url/10253408/) 21世纪MD写作工具，省心省钱好用开源，与Zotero完美配合。美中不足的是Zotero文献过多比如超过5k，在MD引用citation key 时MD很容易罢工卡死。
 5. [CiteSpace: visualizing patterns and trends in scientific literature](https://www.douban.com/url/10910415/) 还在一篇一篇读文献？Citespace,让你开启上帝视角，另一个杀器。
-6. [Microsoft Academic](https://www.douban.com/url/10021229/) 用AI来分析学术你可能不会用，但有微软程序员小哥哥们帮你做好了呀。最重要的功能是查看领域学者分布、文献分布、机构分布等。与谷歌学术、知网配合。
+6. [文思泉涌](https://book.douban.com/subject/26613805/)
 7. [开题分析 \- 百度学术](https://www.douban.com/url/11021223/) 头疼开题选题？帮你做开题的基本面分析。
 8. [https://sci-hub.org.cn/](https://www.douban.com/url/7903980/) 大名鼎鼎，不用多说。
 9. [滴水不漏](https://book.douban.com/subject/35029074/)如果你对怎么写完学位论文这件事心里还没数，如果你的导师是大咖太忙没时间指导你，你变成了野生研究生，如果你正在写，但不确定是不是能通过答辩，推荐这本书，适用学科类型多，可操作，不废话。
